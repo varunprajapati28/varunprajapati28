@@ -5,7 +5,7 @@
 💻 Currently learning:
 
 * Data Structures & Algorithms (DSA)
-* Web Development
+* Web Development (MERN)
 
 🚀 Future Interests:
 
