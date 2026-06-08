@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Varun 👋
 
-<!--
-**varunprajapati28/varunprajapati28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech CSE Student at VIT Bhopal
 
-Here are some ideas to get you started:
+💻 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Structures & Algorithms (DSA)
+* Web Development
+
+🚀 Future Interests:
+
+* Artificial Intelligence (AI)
+* Machine Learning (ML)
+
+📚 Passionate about problem-solving, software development, and continuously improving my technical skills.
+
+🔨 Building projects, practicing DSA, and exploring new technologies.
+
+📫 Connect with me and follow my journey as I grow as a developer!
+
+* LinkedIn: https://www.linkedin.com/in/varun-prajapati-612b22313/
+* LeetCode: https://leetcode.com/u/varunprajapati28/
+
+⭐ Always learning, building, and improving.
